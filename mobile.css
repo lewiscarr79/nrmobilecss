@@ -3,8 +3,10 @@ core-alert-card {
 }
 
 .core-course-dates {
-    display: none;
+    display: none!important;
 }
+
+
 
 /* core-site-logo {
     display: none !important;

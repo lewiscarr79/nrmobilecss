@@ -16,18 +16,3 @@ ion-title.md.title-default.hydrated {
 */
 
 
-/* Hide "You cannot enrol in this course" message */
-core-course-preview .core-course-enrolment-icons,
-core-course-preview ion-card .core-course-notenrollable {
-  display: none;
-}
-
-/* Hide course dates */
-core-course-preview .core-course-preview-date {
-  display: none;
-}
-
-/* Hide featured course */
-core-course-preview .core-course-featured {
-  display: none;
-}

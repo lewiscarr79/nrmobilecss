@@ -1,7 +1,4 @@
-/* Hide category chip */
-ion-chip.core-course-category {
-    display: none !important;
-}
+
 
 /* Hide course dates */
 .core-course-dates {
@@ -18,10 +15,7 @@ ion-list[role="list"] {
     display: none !important;
 }
 
-/* Hide the open in browser button */
-.core-course-oib-button {
-    display: none !important;
-}
+
 
 
 ion-footer core-alert-card {

@@ -2,6 +2,11 @@ ion-footer .ion-padding {
     padding-bottom: 50px!important;
 }
 
+ion-footer.md {
+   
+    margin-bottom: 100px;
+}
+
 
 ion-card.core-info-card ion-item.item {
   

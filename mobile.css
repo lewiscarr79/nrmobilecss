@@ -6,6 +6,10 @@ core-alert-card {
     display: none!important;
 }
 
+.core-customfield.core-customfield_checkbox.core-customfield_local_library_featured {
+    display: none!important;
+}
+
 
 
 /* core-site-logo {

@@ -5,10 +5,7 @@
     display: none !important;
 }
 
-/* Hide teachers list */
-ion-list[role="list"] {
-    display: none !important;
-}
+
 
 /* Hide custom fields */
 .core-customfield {

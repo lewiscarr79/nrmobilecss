@@ -5,7 +5,9 @@
     display: none !important;
 }
 
-
+span.core-customfieldvalue {
+display: none !important;
+}
 
 
 ion-footer core-alert-card {

@@ -2,6 +2,9 @@ ion-footer.md.footer-md.hydrated {
     display: none !important;
 }
 
+.core-customfield.core-customfield_checkbox.core-customfield_local_library_featured {
+    display: none;
+}
 
 core-site-logo {
     display: none !important;

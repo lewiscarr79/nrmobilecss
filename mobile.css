@@ -1,13 +1,19 @@
+core-alert-card {
+    display: none;
+}
 
+.core-course-dates {
+    display: none;
+}
 
-core-site-logo {
+/* core-site-logo {
     display: none !important;
 }
 
 ion-title.md.title-default.hydrated {
     display: none !important;
 }
-
+*/
 
 
 /* Hide "You cannot enrol in this course" message */

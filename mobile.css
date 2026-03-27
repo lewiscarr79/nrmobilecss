@@ -1,16 +1,16 @@
-core-alert-card {
+ion-app core-alert-card {
     display: none !important;
 }
 
-.core-course-dates {
+ion-app .core-course-dates {
     display: none !important;
 }
 
-.core-customfield.core-customfield_checkbox.core-customfield_local_library_featured {
+ion-app .core-customfield.core-customfield_checkbox.core-customfield_local_library_featured {
     display: none !important;
 }
 
-ion-chip.core-course-category.ion-text-nowrap.ion-color.ion-color-primary.md.ion-activatable.hydrated {
+ion-app ion-chip.core-course-category.ion-text-nowrap.ion-color.ion-color-primary.md.ion-activatable.hydrated {
     display: none !important;
 }
 

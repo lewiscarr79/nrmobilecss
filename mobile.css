@@ -7,13 +7,6 @@
 
 
 
-/* Hide custom fields */
-.core-customfield {
-    display: none !important;
-}
-
-
-
 
 ion-footer core-alert-card {
     display: none !important;

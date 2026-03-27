@@ -9,6 +9,14 @@ ion-app span.core-customfieldvalue {
 display: none !important;
 }
 
+ion-app .core-customfieldvalue {
+display: none !important;
+}
+
+.core-customfieldvalue {
+display: none !important;
+}
+
 
 ion-footer core-alert-card {
     display: none !important;

@@ -1,5 +1,5 @@
 ion-footer .ion-padding {
-    padding-bottom: 50px;
+    padding-bottom: 50px!important;
 }
 
 
@@ -51,7 +51,7 @@ ion-app ion-chip.core-course-category.ion-text-nowrap.ion-color.ion-color-primar
     display: none !important;
 }
 
-
+/* 
 core-site-logo {
     display: none !important;
 }
@@ -59,6 +59,7 @@ core-site-logo {
 ion-title.md.title-default.hydrated {
     display: none !important;
 }
+*/
 
 span.core-customfieldname {
     display: none !important;

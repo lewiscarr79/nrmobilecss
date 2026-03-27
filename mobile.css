@@ -27,5 +27,7 @@ span.core-customfieldname {
     display: none !important;
 }
 
-
+ion-app .core-course-dates {
+    display: none !important;
+}
 

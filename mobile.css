@@ -1,4 +1,7 @@
-
+ion-card.core-info-card ion-item.item {
+  
+    display: none;
+}
 
 /* Hide course dates */
 .core-course-dates {

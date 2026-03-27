@@ -15,6 +15,10 @@ ion-app .core-customfield.core-customfield_checkbox.core-customfield_local_libra
     display: none !important;
 }
 
+.core-customfield.core-customfield_checkbox.core-customfield_local_library_featured {
+    display: none!important;
+}
+
 ion-app ion-chip.core-course-category.ion-text-nowrap.ion-color.ion-color-primary.md.ion-activatable.hydrated {
     display: none !important;
 }

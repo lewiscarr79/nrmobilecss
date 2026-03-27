@@ -1,3 +1,8 @@
+.list-item-limited-width core-alert-card {
+    display: none !important;
+}
+
+
 ion-app core-alert-card {
     display: none !important;
 }

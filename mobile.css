@@ -10,6 +10,9 @@ core-alert-card {
     display: none!important;
 }
 
+ion-chip.core-course-category.ion-text-nowrap.ion-color.ion-color-primary.md.ion-activatable.hydrated {
+    display: none !important;
+}
 
 
 /* core-site-logo {

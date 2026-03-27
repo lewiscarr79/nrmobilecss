@@ -3,11 +3,11 @@ core-alert-card {
 }
 
 .core-course-dates {
-    display: none!important;
+    display: none !important;
 }
 
 .core-customfield.core-customfield_checkbox.core-customfield_local_library_featured {
-    display: none!important;
+    display: none !important;
 }
 
 ion-chip.core-course-category.ion-text-nowrap.ion-color.ion-color-primary.md.ion-activatable.hydrated {

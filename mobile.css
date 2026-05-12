@@ -13,6 +13,42 @@ core-alert-card {
     display: none!important;
 }
 
+.core-course-dates {
+    display: none !important;
+}
+
+ion-app span.core-customfieldvalue {
+display: none !important;
+}
+
+ion-app .core-customfieldvalue {
+display: none !important;
+}
+
+.core-customfieldvalue {
+display: none !important;
+}
+
+ion-app .core-customfield.core-customfield_checkbox.core-customfield_local_library_featured {
+    display: none !important;
+}
+
+.core-customfield.core-customfield_checkbox.core-customfield_local_library_featured {
+    display: none!important;
+}
+
+ion-app ion-chip.core-course-category.ion-text-nowrap.ion-color.ion-color-primary.md.ion-activatable.hydrated {
+    display: none !important;
+}
+
+span.core-customfieldname {
+    display: none !important;
+}
+
+ion-app .core-course-dates {
+    display: none !important;
+}
+
 /* 
 div.core-course-dates {
     border: 3px solid red;

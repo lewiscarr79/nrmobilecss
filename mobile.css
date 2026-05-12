@@ -1,3 +1,18 @@
+.core-course-dates {
+    display: none;
+}
+
+
+
+.core-customfield.core-customfield_checkbox.core-customfield_local_library_featured {
+    display: none;
+}
+
+
+core-alert-card {
+    display: none;
+}
+
 /* 
 div.core-course-dates {
     border: 3px solid red;

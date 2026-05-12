@@ -1,16 +1,16 @@
 .core-course-dates {
-    display: none;
+    display: none!important;
 }
 
 
 
 .core-customfield.core-customfield_checkbox.core-customfield_local_library_featured {
-    display: none;
+    display: none!important;
 }
 
 
 core-alert-card {
-    display: none;
+    display: none!important;
 }
 
 /* 

@@ -1,4 +1,16 @@
+core-alert-card {
+    display: none !important;
+}
 
+
+core-alert-card,
+core-alert-card.hydrated {
+    display: none !important;
+}
+
+.core-course-section core-alert-card {
+    display: none !important;
+}
 
 .core-course-dates {
     display: none!important;

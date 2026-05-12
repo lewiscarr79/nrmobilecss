@@ -49,6 +49,10 @@ ion-app .core-course-dates {
     display: none !important;
 }
 
+ion-list.md.list-md.hydrated {
+display: none;
+}
+
 /* 
 div.core-course-dates {
     border: 3px solid red;

@@ -1,3 +1,11 @@
+ion-footer .core-info-card {
+    display: none !important;
+}
+
+.core-info-card {
+    display: none !important;
+}
+
 core-alert-card {
     display: none !important;
 }

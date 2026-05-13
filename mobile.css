@@ -1,3 +1,9 @@
+core-alert-card
+ {
+    display: none !important;
+}
+
+
 ion-modal core-alert-card,
 ion-modal .core-info-card {
     display: none !important;

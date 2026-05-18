@@ -1,3 +1,24 @@
+/* Try the expandable content area rather than the item */
+#page-core-course-summary .expandable-content {
+    display: none !important;
+}
+
+/* Try targeting by Angular attribute */
+#page-core-course-summary [expandable] {
+    display: none !important;
+}
+
+/* Try the core-course-dates component directly */
+#page-core-course-summary core-course-dates {
+    display: none !important;
+}
+
+/* Broader - hide all ion-list within the page */
+#page-core-course-summary ion-list {
+    display: none !important;
+}
+
+
 /* Hide dates expandable section on course summary page */
 #page-core-course-summary ion-item.expandable-item {
     display: none !important;

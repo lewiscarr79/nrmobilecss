@@ -1,3 +1,9 @@
+/* Hide dates expandable section on course summary page */
+#page-core-course-summary ion-item.expandable-item {
+    display: none !important;
+}
+
+
 core-alert-card
  {
     display: none !important;

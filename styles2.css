@@ -2,6 +2,10 @@ page-core-course-summary.ion-item.expandable-item {
     display: none !important;
 }
 
+#page-core-course-summary.ion-item.expandable-item {
+    display: none !important;
+}
+
 /* Try the expandable content area rather than the item */
 #page-core-course-summary .expandable-content {
     display: none !important;

@@ -2,7 +2,15 @@ page-core-course-summary.ion-item.expandable-item {
     display: none !important;
 }
 
+page-core-course-summary .ion-item.expandable-item {
+    display: none !important;
+}
+
 #page-core-course-summary.ion-item.expandable-item {
+    display: none !important;
+}
+
+#page-core-course-summary .ion-item.expandable-item {
     display: none !important;
 }
 
